@@ -92,7 +92,7 @@ $treffliste | Format-Table -Property "DAS-ID","Name","Begruendung"
 
 
 # Main
-# Kurzarbeitchecker V0.1.2
+# Kurzarbeitchecker V0.2.0
 # by Clemens Wachter 2020-05-11
 # Konstanten definieren
 # Arbeitsverzeichnis festlegen
